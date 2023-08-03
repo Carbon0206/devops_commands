@@ -1,2 +1,15 @@
 git clone 
-git clone --branch 
+git clone --branch
+git branch
+git status
+git log
+git init
+git add
+git remote -v
+git commit -m
+git push
+git config --global user.name
+git config --global user.email
+git rm --cached
+git checkout -b
+git restore
